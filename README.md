@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddhardhreddy02
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning python,AI &ML
+- 🌱 I’m currently learning Data science & AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
