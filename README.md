@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @siddhardhreddy02
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning Data science & AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in linkedin www.linkedin.com/in/
-siddhardha-reddy-vadde-a3278a206
+- 🌱 I’m currently working as AI/ML Intern
+- 💞️ I’m looking to collaborate on AI/ML, Data sciene related projects 
+- 📫 How to reach me in linkedin www.linkedin.com/in/siddhardha-reddy-vadde-a3278a206
 
 
 <!---
